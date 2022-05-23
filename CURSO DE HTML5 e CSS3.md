@@ -8,11 +8,17 @@
 
 - Textos e Links;
 
+- Instalando o ATOM e configurando;
+
 - Links Úteis:
 
   [Baixar fotos para usar](https://unsplash.com/)
 
   [Diminuir tamanho da foto](https://tinypng.com/)
+
+  [Configurando ATOM](https://metring.com.br/atom-configuracao-definitiva-para-web)
+
+  [Colocando o ATOM em português](https://metring.com.br/tutorial-atom-em-portugues)
 
   
 
@@ -21,7 +27,7 @@
   
 
   
-
+  
    
-
+  
   
