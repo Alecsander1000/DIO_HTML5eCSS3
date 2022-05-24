@@ -8,7 +8,7 @@
 
 - Textos e Links;
 
-- Instalando o ATOM e configurando;
+- Instalando o ATOM (editor HTML) e configurando;
 
 - Links Úteis:
 
@@ -22,7 +22,7 @@
 
   
 
-  ###### OBS: Até o momento as aulas com ótima apresentação do professor, só senti falta de acompanhar também executando. E a indicação de site e programa para ser usado é de grande ajuda já que sou de nível iniciante.
+  ###### OBS: Foi informado brevemente que o editor de códigos usados é o VSCODE, ainda assim poderia ter facilitado como obter e dar os primeiros passos nele. para um iniciante tive muita dificuldade e me atrasou para acompanhar e finalizar o curso. As aulas foram ótimas.  
 
   
 
